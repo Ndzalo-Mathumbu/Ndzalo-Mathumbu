@@ -1,9 +1,7 @@
 # Hi, I'm Ndzalo 🙂
 
 Building projects, learning how systems connect, and turning ideas into real applications.
-
 ---
-
 ## About Me
 
 Interest in building projects and understanding how systems work behind the scenes
