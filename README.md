@@ -1,20 +1,7 @@
-# Hi, I'm Ndzalo 🙂
+Hi, I'm Ndzalo 🙂
 
-Building projects, learning how systems connect, and turning ideas into real applications.
----
-## About Me
+I build web applications and explore how systems connect from frontend to backend and databases, focusing on turning ideas into structured, working products. My direction is full-stack development with a long-term goal of becoming a Full-Stack Cloud Architect.
 
-Interest in building projects and understanding how systems work behind the scenes
-Goal → Full-Stack Cloud Architect
+I work with HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS, while currently exploring PostgreSQL, Prisma, database relationships, system design, backend architecture, cloud technologies, and AI.
 
-## Tech Stack
-
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
-
-## Learning & Exploring
-
-PostgreSQL • Prisma • Database relationships • System design • Backend architecture • Cloud technologies • AI
-
-## Focus
-
-Turning ideas into applications, improving problem-solving skills, and building real-world projects.
+The main focus is building real-world projects, improving problem-solving skills, and understanding how modern applications are structured end-to-end, with an emphasis on clean architecture and scalable systems.
