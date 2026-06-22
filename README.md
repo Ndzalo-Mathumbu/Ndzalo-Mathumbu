@@ -1,17 +1,55 @@
- 👋 Hey there, I'm Ndzalo NK Mathumbu!
+ # Hi, I'm Ndzalo
 
-💻 Aspiring **Full Stack Developer** | 🚀 Tech Enthusiast | 💡 Innovator
-
-I'm a passionate high school student, building my way up to become a Full Stack Cloud Architect. I'm interested exploring web development, cloud computing, AI, and electric hardware projects.
+Building projects, learning how systems connect, and turning ideas into real applications.
 
 ---
 
 ## About Me
 
-- 🛠️ Learning Full Stack Development →  `HTML+CSS`, `JavaScript`, `Node.js`, `Express.js`, `React.js`, `MongoDB`, `Python`, `SQL`, `Java`, `Kotlin`
-- ☁️ Exploring Cloud & DevOps → `AWS`, `Docker`, `CI/CD`, `Linux`, `Bash`
-- 🏗️ Deepening knowledge in `TypeScript`, `GraphQL`, `Microservices`, `Web Security`, `Performance`, `Scaling`
-- 🏆 Earned freeCodeCamp JavaScript Certification
-- 🧠 Obsessed with learning → aiming for Full Stack Cloud Architect
+* Interest in building projects and understanding how systems work behind the scenes
+* Goal → Full-Stack Cloud Architect
 
 ---
+
+## Tech Stack
+
+### Technologies & Tools
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+* Tailwind CSS
+* React Router
+* Context API
+* React Hooks
+* npm
+* Vite
+* Redux Toolkit
+* Framer Motion
+* GSAP
+* Styled Components
+* React Query (TanStack Query)
+* React Icons
+* React Hook Form
+* Zod
+* ESLint
+* Prettier
+* Supabase
+
+### Learning & Exploring
+
+* PostgreSQL
+* Prisma
+* Database relationships
+* System design
+* Backend architecture
+* Cloud technologies
+* AI
+
+---
+
+## Focus
+
+Turning ideas into applications, improving problem-solving skills, and building real-world projects.
