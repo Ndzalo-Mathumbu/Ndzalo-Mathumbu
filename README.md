@@ -1,3 +1,6 @@
+### Hi, I'm Ndzalo 🙂
+---
+
 I build web applications and explore how systems connect from frontend to backend and databases, focusing on turning ideas into structured, working products. My direction is full-stack development with a long-term goal of becoming a Full-Stack Cloud Architect.
 
 I work with:
